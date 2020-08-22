@@ -1,0 +1,1163 @@
+state,census_id,city
+Alaska,1600000US0203000,Anchorage municipality
+Alaska,1600000US0224230,Fairbanks
+Alaska,1600000US0236400,Juneau and borough
+Alabama,1600000US0103076,Auburn
+Alabama,1600000US0105980,Bessemer
+Alabama,1600000US0120104,Decatur
+Alabama,1600000US0121184,Dothan
+Alabama,1600000US0126896,Florence
+Alabama,1600000US0128696,Gadsden
+Alabama,1600000US0135800,Homewood
+Alabama,1600000US0135896,Hoover
+Alabama,1600000US0137000,Huntsville
+Alabama,1600000US0145784,Madison
+Alabama,1600000US0150000,Mobile
+Alabama,1600000US0151000,Montgomery
+Alabama,1600000US0159472,Phenix
+Alabama,1600000US0162496,Prichard
+Alabama,1600000US0177256,Tuscaloosa
+Arkansas,1600000US0515190,Conway
+Arkansas,1600000US0523290,Fayetteville
+Arkansas,1600000US0524550,Fort Smith
+Arkansas,1600000US0533400,Hot Springs
+Arkansas,1600000US0534750,Jacksonville
+Arkansas,1600000US0535710,Jonesboro
+Arkansas,1600000US0541000,Little Rock
+Arkansas,1600000US0550450,North Little Rock
+Arkansas,1600000US0555310,Pine Bluff
+Arkansas,1600000US0560410,Rogers
+Arkansas,1600000US0568810,Texarkana
+Arkansas,1600000US0574540,West Memphis
+Arizona,1600000US0402830,Apache Junction
+Arizona,1600000US0404720,Avondale
+Arizona,1600000US0408220,Bullhead
+Arizona,1600000US0410530,Casa Grande
+Arizona,1600000US0412000,Chandler
+Arizona,1600000US0423620,Flagstaff
+Arizona,1600000US0427400,Gilbert
+Arizona,1600000US0427820,Glendale
+Arizona,1600000US0439370,Lake Havasu
+Arizona,1600000US0451600,Oro Valley
+Arizona,1600000US0454050,Peoria
+Arizona,1600000US0455000,Phoenix
+Arizona,1600000US0457380,Prescott
+Arizona,1600000US0465000,Scottsdale
+Arizona,1600000US0466820,Sierra Vista
+Arizona,1600000US0471510,Surprise
+Arizona,1600000US0473000,Tempe
+Arizona,1600000US0477000,Tucson
+California,1600000US0600562,Alameda
+California,1600000US0600884,Alhambra
+California,1600000US0600947,Aliso Viejo
+California,1600000US0602000,Anaheim
+California,1600000US0602252,Antioch
+California,1600000US0602364,Apple Valley
+California,1600000US0602462,Arcadia
+California,1600000US0603064,Atascadero
+California,1600000US0603386,Azusa
+California,1600000US0603526,Bakersfield
+California,1600000US0603666,Baldwin Park
+California,1600000US0604870,Bell
+California,1600000US0604982,Bellflower
+California,1600000US0604996,Bell Gardens
+California,1600000US0605108,Belmont
+California,1600000US0605290,Benicia
+California,1600000US0606000,Berkeley
+California,1600000US0606308,Beverly Hills
+California,1600000US0608100,Brea
+California,1600000US0608786,Buena Park
+California,1600000US0609066,Burlingame
+California,1600000US0609710,Calexico
+California,1600000US0610046,Camarillo
+California,1600000US0610345,Campbell
+California,1600000US0611194,Carlsbad
+California,1600000US0611530,Carson
+California,1600000US0612048,Cathedral
+California,1600000US0612524,Ceres
+California,1600000US0612552,Cerritos
+California,1600000US0613014,Chico
+California,1600000US0613210,Chino
+California,1600000US0613214,Chino Hills
+California,1600000US0613392,Chula Vista
+California,1600000US0613588,Citrus Heights
+California,1600000US0613756,Claremont
+California,1600000US0614218,Clovis
+California,1600000US0614890,Colton
+California,1600000US0615044,Compton
+California,1600000US0616000,Concord
+California,1600000US0616350,Corona
+California,1600000US0616532,Costa Mesa
+California,1600000US0616742,Covina
+California,1600000US0617568,Culver
+California,1600000US0617610,Cupertino
+California,1600000US0617750,Cypress
+California,1600000US0617918,Daly
+California,1600000US0617946,Dana Point
+California,1600000US0617988,Danville
+California,1600000US0618100,Davis
+California,1600000US0618394,Delano
+California,1600000US0619192,Diamond Bar
+California,1600000US0619766,Downey
+California,1600000US0620018,Dublin
+California,1600000US0620956,East Palo Alto
+California,1600000US0621712,El Cajon
+California,1600000US0621782,El Centro
+California,1600000US0622020,Elk Grove
+California,1600000US0622230,El Monte
+California,1600000US0622678,Encinitas
+California,1600000US0622804,Escondido
+California,1600000US0623042,Eureka
+California,1600000US0623182,Fairfield
+California,1600000US0624638,Folsom
+California,1600000US0624680,Fontana
+California,1600000US0625338,Foster
+California,1600000US0625380,Fountain Valley
+California,1600000US0626000,Fremont
+California,1600000US0627000,Fresno
+California,1600000US0628000,Fullerton
+California,1600000US0628168,Gardena
+California,1600000US0629000,Garden Grove
+California,1600000US0629504,Gilroy
+California,1600000US0630000,Glendale
+California,1600000US0630014,Glendora
+California,1600000US0630378,Goleta
+California,1600000US0631960,Hanford
+California,1600000US0632548,Hawthorne
+California,1600000US0633000,Hayward
+California,1600000US0633182,Hemet
+California,1600000US0633434,Hesperia
+California,1600000US0633588,Highland
+California,1600000US0634120,Hollister
+California,1600000US0636000,Huntington Beach
+California,1600000US0636056,Huntington Park
+California,1600000US0636294,Imperial Beach
+California,1600000US0636448,Indio
+California,1600000US0636546,Inglewood
+California,1600000US0636770,Irvine
+California,1600000US0639220,Laguna Hills
+California,1600000US0639248,Laguna Niguel
+California,1600000US0639290,La Habra
+California,1600000US0639486,Lake Elsinore
+California,1600000US0639496,Lake Forest
+California,1600000US0639892,Lakewood
+California,1600000US0640004,La Mesa
+California,1600000US0640032,La Mirada
+California,1600000US0640130,Lancaster
+California,1600000US0640340,La Puente
+California,1600000US0640886,Lawndale
+California,1600000US0641992,Livermore
+California,1600000US0642202,Lodi
+California,1600000US0642524,Lompoc
+California,1600000US0643000,Long Beach
+California,1600000US0643280,Los Altos
+California,1600000US0644000,Los Angeles
+California,1600000US0644028,Los Banos
+California,1600000US0644112,Los Gatos
+California,1600000US0644574,Lynwood
+California,1600000US0645022,Madera
+California,1600000US0645400,Manhattan Beach
+California,1600000US0645484,Manteca
+California,1600000US0646114,Martinez
+California,1600000US0646492,Maywood
+California,1600000US0646870,Menlo Park
+California,1600000US0646898,Merced
+California,1600000US0647766,Milpitas
+California,1600000US0648256,Mission Viejo
+California,1600000US0648354,Modesto
+California,1600000US0648648,Monrovia
+California,1600000US0648788,Montclair
+California,1600000US0648816,Montebello
+California,1600000US0648872,Monterey
+California,1600000US0648914,Monterey Park
+California,1600000US0649138,Moorpark
+California,1600000US0649270,Moreno Valley
+California,1600000US0649278,Morgan Hill
+California,1600000US0649670,Mountain View
+California,1600000US0650076,Murrieta
+California,1600000US0650258,Napa
+California,1600000US0650398,National
+California,1600000US0650916,Newark
+California,1600000US0651182,Newport Beach
+California,1600000US0652526,Norwalk
+California,1600000US0652582,Novato
+California,1600000US0653000,Oakland
+California,1600000US0653070,Oakley
+California,1600000US0653322,Oceanside
+California,1600000US0653896,Ontario
+California,1600000US0653980,Orange
+California,1600000US0654652,Oxnard
+California,1600000US0654806,Pacifica
+California,1600000US0655156,Palmdale
+California,1600000US0655184,Palm Desert
+California,1600000US0655254,Palm Springs
+California,1600000US0655282,Palo Alto
+California,1600000US0655618,Paramount
+California,1600000US0656000,Pasadena
+California,1600000US0656700,Perris
+California,1600000US0656784,Petaluma
+California,1600000US0656924,Pico Rivera
+California,1600000US0657456,Pittsburg
+California,1600000US0657526,Placentia
+California,1600000US0657764,Pleasant Hill
+California,1600000US0657792,Pleasanton
+California,1600000US0658072,Pomona
+California,1600000US0658240,Porterville
+California,1600000US0658520,Poway
+California,1600000US0659444,Rancho Cordova
+California,1600000US0659451,Rancho Cucamonga
+California,1600000US0659514,Rancho Palos Verdes
+California,1600000US0659587,Rancho Santa Margarita
+California,1600000US0659920,Redding
+California,1600000US0659962,Redlands
+California,1600000US0660018,Redondo Beach
+California,1600000US0660102,Redwood
+California,1600000US0660466,Rialto
+California,1600000US0660620,Richmond
+California,1600000US0662000,Riverside
+California,1600000US0662364,Rocklin
+California,1600000US0662546,Rohnert Park
+California,1600000US0662896,Rosemead
+California,1600000US0662938,Roseville
+California,1600000US0664000,Sacramento
+California,1600000US0664224,Salinas
+California,1600000US0665000,San Bernardino
+California,1600000US0665028,San Bruno
+California,1600000US0665084,San Clemente
+California,1600000US0666000,San Diego
+California,1600000US0666070,San Dimas
+California,1600000US0667000,San Francisco
+California,1600000US0667042,San Gabriel
+California,1600000US0668000,San Jose
+California,1600000US0668028,San Juan Capistrano
+California,1600000US0668084,San Leandro
+California,1600000US0668154,San Luis Obispo
+California,1600000US0668196,San Marcos
+California,1600000US0668252,San Mateo
+California,1600000US0668294,San Pablo
+California,1600000US0668364,San Rafael
+California,1600000US0668378,San Ramon
+California,1600000US0669000,Santa Ana
+California,1600000US0669070,Santa Barbara
+California,1600000US0669084,Santa Clara
+California,1600000US0669088,Santa Clarita
+California,1600000US0669112,Santa Cruz
+California,1600000US0669196,Santa Maria
+California,1600000US0670000,Santa Monica
+California,1600000US0670042,Santa Paula
+California,1600000US0670098,Santa Rosa
+California,1600000US0670224,Santee
+California,1600000US0670280,Saratoga
+California,1600000US0670742,Seaside
+California,1600000US0672016,Simi Valley
+California,1600000US0673080,South Gate
+California,1600000US0673262,South San Francisco
+California,1600000US0673962,Stanton
+California,1600000US0675000,Stockton
+California,1600000US0675630,Suisun
+California,1600000US0677000,Sunnyvale
+California,1600000US0678120,Temecula
+California,1600000US0678148,Temple
+California,1600000US0678582,Thousand Oaks
+California,1600000US0680000,Torrance
+California,1600000US0680238,Tracy
+California,1600000US0680644,Tulare
+California,1600000US0680812,Turlock
+California,1600000US0680854,Tustin
+California,1600000US0681204,Union
+California,1600000US0681344,Upland
+California,1600000US0681554,Vacaville
+California,1600000US0681666,Vallejo
+California,1600000US0682590,Victorville
+California,1600000US0682954,Visalia
+California,1600000US0682996,Vista
+California,1600000US0683332,Walnut
+California,1600000US0683346,Walnut Creek
+California,1600000US0683668,Watsonville
+California,1600000US0684200,West Covina
+California,1600000US0684410,West Hollywood
+California,1600000US0684550,Westminster
+California,1600000US0684816,West Sacramento
+California,1600000US0685292,Whittier
+California,1600000US0686328,Woodland
+California,1600000US0686832,Yorba Linda
+California,1600000US0686972,Yuba
+California,1600000US0687042,Yucaipa
+Colorado,1600000US0804000,Aurora
+Colorado,1600000US0807850,Boulder
+Colorado,1600000US0809280,Broomfield
+Colorado,1600000US0816000,Colorado Springs
+Colorado,1600000US0820000,Denver
+Colorado,1600000US0827425,Fort Collins
+Colorado,1600000US0831660,Grand Junction
+Colorado,1600000US0832155,Greeley
+Colorado,1600000US0843000,Lakewood
+Colorado,1600000US0845255,Littleton
+Colorado,1600000US0845970,Longmont
+Colorado,1600000US0846465,Loveland
+Colorado,1600000US0854330,Northglenn
+Colorado,1600000US0862000,Pueblo
+Colorado,1600000US0877290,Thornton
+Colorado,1600000US0883835,Westminster
+Colorado,1600000US0884440,Wheat Ridge
+Connecticut,1600000US0908000,Bridgeport
+Connecticut,1600000US0908420,Bristol
+Connecticut,1600000US0918430,Danbury
+Connecticut,1600000US0922700,East Hartford
+Connecticut,1600000US0922980,East Haven
+Connecticut,1600000US0937000,Hartford
+Connecticut,1600000US0946450,Meriden
+Connecticut,1600000US0947290,Middletown
+Connecticut,1600000US0947515,Milford (balance)
+Connecticut,1600000US0949880,Naugatuck borough
+Connecticut,1600000US0950370,New Britain
+Connecticut,1600000US0952000,New Haven
+Connecticut,1600000US0952210,Newington
+Connecticut,1600000US0952280,New London
+Connecticut,1600000US0955990,Norwalk
+Connecticut,1600000US0956200,Norwich
+Connecticut,1600000US0968100,Shelton
+Connecticut,1600000US0973000,Stamford
+Connecticut,1600000US0974260,Stratford
+Connecticut,1600000US0976500,Torrington
+Connecticut,1600000US0977270,Trumbull
+Connecticut,1600000US0980000,Waterbury
+Connecticut,1600000US0982660,West Hartford
+Connecticut,1600000US0982800,West Haven
+Connecticut,1600000US0983570,Westport
+District of Columbia,1600000US1150000,Washington
+Delaware,1600000US1021200,Dover
+Delaware,1600000US1050670,Newark
+Delaware,1600000US1077580,Wilmington
+Florida,1600000US1200950,Altamonte Springs
+Florida,1600000US1201700,Apopka
+Florida,1600000US1202681,Aventura
+Florida,1600000US1207300,Boca Raton
+Florida,1600000US1207875,Boynton Beach
+Florida,1600000US1207950,Bradenton
+Florida,1600000US1210275,Cape Coral
+Florida,1600000US1212875,Clearwater
+Florida,1600000US1213275,Coconut Creek
+Florida,1600000US1214125,Cooper
+Florida,1600000US1214250,Coral Gables
+Florida,1600000US1214400,Coral Springs
+Florida,1600000US1216475,Davie
+Florida,1600000US1216525,Daytona Beach
+Florida,1600000US1216725,Deerfield Beach
+Florida,1600000US1217100,Delray Beach
+Florida,1600000US1218575,Dunedin
+Florida,1600000US1224000,Fort Lauderdale
+Florida,1600000US1224125,Fort Myers
+Florida,1600000US1224300,Fort Pierce
+Florida,1600000US1225175,Gainesville
+Florida,1600000US1227322,Greenacres
+Florida,1600000US1230000,Hialeah
+Florida,1600000US1232000,Hollywood
+Florida,1600000US1235000,Jacksonville
+Florida,1600000US1235875,Jupiter
+Florida,1600000US1236550,Key West
+Florida,1600000US1236950,Kissimmee
+Florida,1600000US1238250,Lakeland
+Florida,1600000US1239075,Lake Worth
+Florida,1600000US1239425,Largo
+Florida,1600000US1239525,Lauderdale Lakes
+Florida,1600000US1239550,Lauderhill
+Florida,1600000US1243125,Margate
+Florida,1600000US1243975,Melbourne
+Florida,1600000US1245000,Miami
+Florida,1600000US1245025,Miami Beach
+Florida,1600000US1245975,Miramar
+Florida,1600000US1249425,North Lauderdale
+Florida,1600000US1249450,North Miami
+Florida,1600000US1249475,North Miami Beach
+Florida,1600000US1250575,Oakland Park
+Florida,1600000US1250750,Ocala
+Florida,1600000US1253000,Orlando
+Florida,1600000US1253150,Ormond Beach
+Florida,1600000US1253575,Oviedo
+Florida,1600000US1254000,Palm Bay
+Florida,1600000US1254075,Palm Beach Gardens
+Florida,1600000US1254700,Panama
+Florida,1600000US1255775,Pembroke Pines
+Florida,1600000US1255925,Pensacola
+Florida,1600000US1256975,Pinellas Park
+Florida,1600000US1258050,Pompano Beach
+Florida,1600000US1258575,Port Orange
+Florida,1600000US1260975,Riviera Beach
+Florida,1600000US1263650,Sanford
+Florida,1600000US1264175,Sarasota
+Florida,1600000US1269700,Sunrise
+Florida,1600000US1270600,Tallahassee
+Florida,1600000US1270675,Tamarac
+Florida,1600000US1271000,Tampa
+Florida,1600000US1271900,Titusville
+Florida,1600000US1275812,Wellington
+Florida,1600000US1276582,Weston
+Florida,1600000US1276600,West Palm Beach
+Florida,1600000US1278275,Winter Haven
+Florida,1600000US1278325,Winter Springs
+Georgia,1600000US1301052,Albany
+Georgia,1600000US1301696,Alpharetta
+Georgia,1600000US1304000,Atlanta
+Georgia,1600000US1321380,Dalton
+Georgia,1600000US1324768,Dunwoody
+Georgia,1600000US1325720,East Point
+Georgia,1600000US1331908,Gainesville
+Georgia,1600000US1338964,Hinesville
+Georgia,1600000US1344340,LaGrange
+Georgia,1600000US1349756,Marietta
+Georgia,1600000US1359724,Peachtree
+Georgia,1600000US1366668,Rome
+Georgia,1600000US1367284,Roswell
+Georgia,1600000US1368516,Sandy Springs
+Georgia,1600000US1371492,Smyrna
+Georgia,1600000US1378800,Valdosta
+Georgia,1600000US1380508,Warner Robins
+Iowa,1600000US1901855,Ames
+Iowa,1600000US1902305,Ankeny
+Iowa,1600000US1906355,Bettendorf
+Iowa,1600000US1909550,Burlington
+Iowa,1600000US1911755,Cedar Falls
+Iowa,1600000US1912000,Cedar Rapids
+Iowa,1600000US1914430,Clinton
+Iowa,1600000US1916860,Council Bluffs
+Iowa,1600000US1919000,Davenport
+Iowa,1600000US1921000,Des Moines
+Iowa,1600000US1922395,Dubuque
+Iowa,1600000US1928515,Fort Dodge
+Iowa,1600000US1938595,Iowa
+Iowa,1600000US1949485,Marion
+Iowa,1600000US1949755,Marshalltown
+Iowa,1600000US1950160,Mason
+Iowa,1600000US1979950,Urbandale
+Iowa,1600000US1982425,Waterloo
+Iowa,1600000US1983910,West Des Moines
+Idaho,1600000US1608830,Boise
+Idaho,1600000US1612250,Caldwell
+Idaho,1600000US1639700,Idaho Falls
+Idaho,1600000US1646540,Lewiston
+Idaho,1600000US1652120,Meridian
+Idaho,1600000US1656260,Nampa
+Idaho,1600000US1664090,Pocatello
+Idaho,1600000US1682810,Twin Falls
+Illinois,1600000US1700243,Addison
+Illinois,1600000US1701114,Alton
+Illinois,1600000US1702154,Arlington Heights
+Illinois,1600000US1703012,Aurora
+Illinois,1600000US1704013,Bartlett
+Illinois,1600000US1704845,Belleville
+Illinois,1600000US1705573,Berwyn
+Illinois,1600000US1706613,Bloomington
+Illinois,1600000US1707133,Bolingbrook
+Illinois,1600000US1709447,Buffalo Grove
+Illinois,1600000US1709642,Burbank
+Illinois,1600000US1710487,Calumet
+Illinois,1600000US1711332,Carol Stream
+Illinois,1600000US1711358,Carpentersville
+Illinois,1600000US1712385,Champaign
+Illinois,1600000US1714000,Chicago
+Illinois,1600000US1714026,Chicago Heights
+Illinois,1600000US1714351,Cicero
+Illinois,1600000US1717887,Crystal Lake
+Illinois,1600000US1718563,Danville
+Illinois,1600000US1718823,Decatur
+Illinois,1600000US1719642,Des Plaines
+Illinois,1600000US1720591,Downers Grove
+Illinois,1600000US1723074,Elgin
+Illinois,1600000US1723256,Elk Grove
+Illinois,1600000US1723620,Elmhurst
+Illinois,1600000US1723724,Elmwood Park
+Illinois,1600000US1724582,Evanston
+Illinois,1600000US1727884,Freeport
+Illinois,1600000US1728326,Galesburg
+Illinois,1600000US1729730,Glendale Heights
+Illinois,1600000US1729756,Glen Ellyn
+Illinois,1600000US1729938,Glenview
+Illinois,1600000US1730926,Granite
+Illinois,1600000US1732018,Gurnee
+Illinois,1600000US1732746,Hanover Park
+Illinois,1600000US1734722,Highland Park
+Illinois,1600000US1735411,Hoffman Estates
+Illinois,1600000US1738570,Joliet
+Illinois,1600000US1738934,Kankakee
+Illinois,1600000US1742028,Lansing
+Illinois,1600000US1744407,Lombard
+Illinois,1600000US1747774,Maywood
+Illinois,1600000US1749867,Moline
+Illinois,1600000US1751089,Mount Prospect
+Illinois,1600000US1751349,Mundelein
+Illinois,1600000US1751622,Naperville
+Illinois,1600000US1753000,Niles
+Illinois,1600000US1753234,Normal
+Illinois,1600000US1753481,Northbrook
+Illinois,1600000US1754638,Oak Forest
+Illinois,1600000US1754820,Oak Lawn
+Illinois,1600000US1754885,Oak Park
+Illinois,1600000US1756640,Orland Park
+Illinois,1600000US1757225,Palatine
+Illinois,1600000US1757875,Park Ridge
+Illinois,1600000US1758447,Pekin
+Illinois,1600000US1759000,Peoria
+Illinois,1600000US1762367,Quincy
+Illinois,1600000US1765000,Rockford
+Illinois,1600000US1765078,Rock Island
+Illinois,1600000US1766040,Round Lake Beach
+Illinois,1600000US1768003,Schaumburg
+Illinois,1600000US1770122,Skokie
+Illinois,1600000US1772000,Springfield
+Illinois,1600000US1775484,Tinley Park
+Illinois,1600000US1777005,Urbana
+Illinois,1600000US1779293,Waukegan
+Illinois,1600000US1781048,Wheaton
+Illinois,1600000US1781087,Wheeling
+Illinois,1600000US1782075,Wilmette
+Illinois,1600000US1783245,Woodridge
+Indiana,1600000US1801468,Anderson
+Indiana,1600000US1805860,Bloomington
+Indiana,1600000US1810342,Carmel
+Indiana,1600000US1814734,Columbus
+Indiana,1600000US1819486,East Chicago
+Indiana,1600000US1820728,Elkhart
+Indiana,1600000US1822000,Evansville
+Indiana,1600000US1823278,Fishers
+Indiana,1600000US1825000,Fort Wayne
+Indiana,1600000US1827000,Gary
+Indiana,1600000US1828386,Goshen
+Indiana,1600000US1829898,Greenwood
+Indiana,1600000US1831000,Hammond
+Indiana,1600000US1834114,Hobart
+Indiana,1600000US1836003,Indianapolis (balance)
+Indiana,1600000US1838358,Jeffersonville
+Indiana,1600000US1840392,Kokomo
+Indiana,1600000US1840788,Lafayette
+Indiana,1600000US1846908,Marion
+Indiana,1600000US1848528,Merrillville
+Indiana,1600000US1848798,Michigan
+Indiana,1600000US1849932,Mishawaka
+Indiana,1600000US1851876,Muncie
+Indiana,1600000US1871000,South Bend
+Indiana,1600000US1875428,Terre Haute
+Indiana,1600000US1882862,West Lafayette
+Kansas,1600000US2018250,Dodge
+Kansas,1600000US2021275,Emporia
+Kansas,1600000US2025325,Garden
+Kansas,1600000US2039000,Leavenworth
+Kansas,1600000US2039075,Leawood
+Kansas,1600000US2039350,Lenexa
+Kansas,1600000US2052575,Olathe
+Kansas,1600000US2053775,Overland Park
+Kansas,1600000US2062700,Salina
+Kansas,1600000US2064500,Shawnee
+Kansas,1600000US2071000,Topeka
+Kansas,1600000US2079000,Wichita
+Kentucky,1600000US2108902,Bowling Green
+Kentucky,1600000US2117848,Covington
+Kentucky,1600000US2128900,Frankfort
+Kentucky,1600000US2135866,Henderson
+Kentucky,1600000US2137918,Hopkinsville
+Kentucky,1600000US2140222,Jeffersontown
+Kentucky,1600000US2146027,Lexington-Fayette
+Kentucky,1600000US2158620,Owensboro
+Kentucky,1600000US2158836,Paducah
+Kentucky,1600000US2165226,Richmond
+Louisiana,1600000US2200975,Alexandria
+Louisiana,1600000US2205000,Baton Rouge
+Louisiana,1600000US2208920,Bossier
+Louisiana,1600000US2236255,Houma
+Louisiana,1600000US2239475,Kenner
+Louisiana,1600000US2240735,Lafayette
+Louisiana,1600000US2241155,Lake Charles
+Louisiana,1600000US2251410,Monroe
+Louisiana,1600000US2255000,New Orleans
+Louisiana,1600000US2270000,Shreveport
+Louisiana,1600000US2270805,Slidell
+Massachusetts,1600000US2501640,Arlington
+Massachusetts,1600000US2502690,Attleboro
+Massachusetts,1600000US2505595,Beverly
+Massachusetts,1600000US2507000,Boston
+Massachusetts,1600000US2509000,Brockton
+Massachusetts,1600000US2509210,Brookline
+Massachusetts,1600000US2511000,Cambridge
+Massachusetts,1600000US2513205,Chelsea
+Massachusetts,1600000US2513660,Chicopee
+Massachusetts,1600000US2516285,Danvers
+Massachusetts,1600000US2521990,Everett
+Massachusetts,1600000US2523000,Fall River
+Massachusetts,1600000US2523875,Fitchburg
+Massachusetts,1600000US2524960,Framingham
+Massachusetts,1600000US2526150,Gloucester
+Massachusetts,1600000US2529405,Haverhill
+Massachusetts,1600000US2530840,Holyoke
+Massachusetts,1600000US2534550,Lawrence
+Massachusetts,1600000US2535075,Leominster
+Massachusetts,1600000US2535250,Lexington
+Massachusetts,1600000US2537000,Lowell
+Massachusetts,1600000US2537490,Lynn
+Massachusetts,1600000US2537875,Malden
+Massachusetts,1600000US2538715,Marlborough
+Massachusetts,1600000US2539835,Medford
+Massachusetts,1600000US2540115,Melrose
+Massachusetts,1600000US2540710,Methuen
+Massachusetts,1600000US2541725,Milton
+Massachusetts,1600000US2544140,Needham
+Massachusetts,1600000US2545000,New Bedford
+Massachusetts,1600000US2545560,Newton
+Massachusetts,1600000US2546330,Northampton
+Massachusetts,1600000US2550285,Norwood
+Massachusetts,1600000US2552490,Peabody
+Massachusetts,1600000US2553960,Pittsfield
+Massachusetts,1600000US2555745,Quincy
+Massachusetts,1600000US2555990,Randolph
+Massachusetts,1600000US2556585,Revere
+Massachusetts,1600000US2559105,Salem
+Massachusetts,1600000US2560050,Saugus
+Massachusetts,1600000US2562535,Somerville
+Massachusetts,1600000US2567000,Springfield
+Massachusetts,1600000US2569170,Taunton
+Massachusetts,1600000US2572600,Waltham
+Massachusetts,1600000US2573440,Watertown
+Massachusetts,1600000US2574210,Wellesley
+Massachusetts,1600000US2576030,Westfield
+Massachusetts,1600000US2581035,Woburn
+Massachusetts,1600000US2582000,Worcester
+Maryland,1600000US2401600,Annapolis
+Maryland,1600000US2404000,Baltimore
+Maryland,1600000US2408775,Bowie
+Maryland,1600000US2430325,Frederick
+Maryland,1600000US2436075,Hagerstown
+Maine,1600000US2302795,Bangor
+Maine,1600000US2338740,Lewiston
+Maine,1600000US2360545,Portland
+Michigan,1600000US2601380,Allen Park
+Michigan,1600000US2603000,Ann Arbor
+Michigan,1600000US2605920,Battle Creek
+Michigan,1600000US2606020,Bay
+Michigan,1600000US2612060,Burton
+Michigan,1600000US2621000,Dearborn
+Michigan,1600000US2621020,Dearborn Heights
+Michigan,1600000US2622000,Detroit
+Michigan,1600000US2624120,East Lansing
+Michigan,1600000US2624290,Eastpointe
+Michigan,1600000US2627440,Farmington Hills
+Michigan,1600000US2629000,Flint
+Michigan,1600000US2634000,Grand Rapids
+Michigan,1600000US2638640,Holland
+Michigan,1600000US2640680,Inkster
+Michigan,1600000US2641420,Jackson
+Michigan,1600000US2642160,Kalamazoo
+Michigan,1600000US2642820,Kentwood
+Michigan,1600000US2646000,Lansing
+Michigan,1600000US2647800,Lincoln Park
+Michigan,1600000US2649000,Livonia
+Michigan,1600000US2650560,Madison Heights
+Michigan,1600000US2653780,Midland
+Michigan,1600000US2656020,Mount Pleasant
+Michigan,1600000US2656320,Muskegon
+Michigan,1600000US2659440,Novi
+Michigan,1600000US2659920,Oak Park
+Michigan,1600000US2665440,Pontiac
+Michigan,1600000US2665560,Portage
+Michigan,1600000US2665820,Port Huron
+Michigan,1600000US2669035,Rochester Hills
+Michigan,1600000US2669800,Roseville
+Michigan,1600000US2670040,Royal Oak
+Michigan,1600000US2670520,Saginaw
+Michigan,1600000US2674900,Southfield
+Michigan,1600000US2674960,Southgate
+Michigan,1600000US2676460,Sterling Heights
+Michigan,1600000US2679000,Taylor
+Michigan,1600000US2680700,Troy
+Michigan,1600000US2684000,Warren
+Michigan,1600000US2686000,Westland
+Michigan,1600000US2688900,Wyandotte
+Michigan,1600000US2688940,Wyoming
+Minnesota,1600000US2701900,Apple Valley
+Minnesota,1600000US2706382,Blaine
+Minnesota,1600000US2706616,Bloomington
+Minnesota,1600000US2707948,Brooklyn Center
+Minnesota,1600000US2707966,Brooklyn Park
+Minnesota,1600000US2708794,Burnsville
+Minnesota,1600000US2713114,Coon Rapids
+Minnesota,1600000US2713456,Cottage Grove
+Minnesota,1600000US2717000,Duluth
+Minnesota,1600000US2717288,Eagan
+Minnesota,1600000US2718116,Eden Prairie
+Minnesota,1600000US2718188,Edina
+Minnesota,1600000US2722814,Fridley
+Minnesota,1600000US2731076,Inver Grove Heights
+Minnesota,1600000US2735180,Lakeville
+Minnesota,1600000US2739878,Mankato
+Minnesota,1600000US2740166,Maple Grove
+Minnesota,1600000US2740382,Maplewood
+Minnesota,1600000US2743000,Minneapolis
+Minnesota,1600000US2743252,Minnetonka
+Minnesota,1600000US2743864,Moorhead
+Minnesota,1600000US2747680,Oakdale
+Minnesota,1600000US2751730,Plymouth
+Minnesota,1600000US2754214,Richfield
+Minnesota,1600000US2754880,Rochester
+Minnesota,1600000US2755852,Roseville
+Minnesota,1600000US2771032,Winona
+Minnesota,1600000US2771428,Woodbury
+Missouri,1600000US2903160,Ballwin
+Missouri,1600000US2906652,Blue Springs
+Missouri,1600000US2911242,Cape Girardeau
+Missouri,1600000US2913600,Chesterfield
+Missouri,1600000US2915670,Columbia
+Missouri,1600000US2924778,Florissant
+Missouri,1600000US2927190,Gladstone
+Missouri,1600000US2931276,Hazelwood
+Missouri,1600000US2935000,Independence
+Missouri,1600000US2937000,Jefferson
+Missouri,1600000US2937592,Joplin
+Missouri,1600000US2938000,Kansas
+Missouri,1600000US2939044,Kirkwood
+Missouri,1600000US2942032,Liberty
+Missouri,1600000US2946586,Maryland Heights
+Missouri,1600000US2960788,Raytown
+Missouri,1600000US2970000,Springfield
+Missouri,1600000US2975220,University
+Mississippi,1600000US2806220,Biloxi
+Mississippi,1600000US2829180,Greenville
+Mississippi,1600000US2829700,Gulfport
+Mississippi,1600000US2831020,Hattiesburg
+Mississippi,1600000US2836000,Jackson
+Mississippi,1600000US2846640,Meridian
+Mississippi,1600000US2869280,Southaven
+Mississippi,1600000US2876720,Vicksburg
+Montana,1600000US3006550,Billings
+Montana,1600000US3008950,Bozeman
+Montana,1600000US3032800,Great Falls
+Montana,1600000US3035600,Helena
+Montana,1600000US3050200,Missoula
+North Carolina,1600000US3702140,Asheville
+North Carolina,1600000US3709060,Burlington
+North Carolina,1600000US3710740,Cary
+North Carolina,1600000US3711800,Chapel Hill
+North Carolina,1600000US3714100,Concord
+North Carolina,1600000US3722920,Fayetteville
+North Carolina,1600000US3726880,Goldsboro
+North Carolina,1600000US3731060,Hickory
+North Carolina,1600000US3731400,High Point
+North Carolina,1600000US3735200,Kannapolis
+North Carolina,1600000US3743920,Monroe
+North Carolina,1600000US3757500,Rocky Mount
+North Carolina,1600000US3758860,Salisbury
+North Carolina,1600000US3774440,Wilmington
+North Dakota,1600000US3807200,Bismarck
+North Dakota,1600000US3825700,Fargo
+North Dakota,1600000US3832060,Grand Forks
+North Dakota,1600000US3853380,Minot
+Nebraska,1600000US3103950,Bellevue
+Nebraska,1600000US3117670,Fremont
+Nebraska,1600000US3119595,Grand Island
+Nebraska,1600000US3125055,Kearney
+Nebraska,1600000US3128000,Lincoln
+Nebraska,1600000US3137000,Omaha
+New Hampshire,1600000US3314200,Concord
+New Hampshire,1600000US3318820,Dover
+New Hampshire,1600000US3345140,Manchester
+New Hampshire,1600000US3350260,Nashua
+New Hampshire,1600000US3365140,Rochester
+New Jersey,1600000US3403580,Bayonne
+New Jersey,1600000US3405170,Bergenfield borough
+New Jersey,1600000US3413690,Clifton
+New Jersey,1600000US3419390,East Orange
+New Jersey,1600000US3421000,Elizabeth
+New Jersey,1600000US3421480,Englewood
+New Jersey,1600000US3422470,Fair Lawn borough
+New Jersey,1600000US3424420,Fort Lee borough
+New Jersey,1600000US3425770,Garfield
+New Jersey,1600000US3428680,Hackensack
+New Jersey,1600000US3432250,Hoboken
+New Jersey,1600000US3436000,Jersey
+New Jersey,1600000US3436510,Kearny
+New Jersey,1600000US3438580,Lakewood
+New Jersey,1600000US3440350,Linden
+New Jersey,1600000US3441310,Long Branch
+New Jersey,1600000US3446680,Millville
+New Jersey,1600000US3451000,Newark
+New Jersey,1600000US3451210,New Brunswick
+New Jersey,1600000US3455950,Paramus borough
+New Jersey,1600000US3456550,Passaic
+New Jersey,1600000US3457000,Paterson
+New Jersey,1600000US3458200,Perth Amboy
+New Jersey,1600000US3459190,Plainfield
+New Jersey,1600000US3461530,Rahway
+New Jersey,1600000US3465790,Sayreville borough
+New Jersey,1600000US3473110,Toms River
+New Jersey,1600000US3474000,Trenton
+New Jersey,1600000US3476070,Vineland
+New Jersey,1600000US3479040,Westfield
+New Jersey,1600000US3479610,West New York
+New Mexico,1600000US3501780,Alamogordo
+New Mexico,1600000US3502000,Albuquerque
+New Mexico,1600000US3512150,Carlsbad
+New Mexico,1600000US3516420,Clovis
+New Mexico,1600000US3525800,Farmington
+New Mexico,1600000US3532520,Hobbs
+New Mexico,1600000US3539380,Las Cruces
+New Mexico,1600000US3563460,Rio Rancho
+New Mexico,1600000US3564930,Roswell
+New Mexico,1600000US3570500,Santa Fe
+Nevada,1600000US3231900,Henderson
+Nevada,1600000US3251800,North Las Vegas
+Nevada,1600000US3260600,Reno
+Nevada,1600000US3268400,Sparks
+New York,1600000US3601000,Albany
+New York,1600000US3603078,Auburn
+New York,1600000US3606607,Binghamton
+New York,1600000US3608257,Brighton
+New York,1600000US3611000,Buffalo
+New York,1600000US3615000,Cheektowaga
+New York,1600000US3624229,Elmira
+New York,1600000US3627485,Freeport
+New York,1600000US3629113,Glen Cove
+New York,1600000US3633139,Hempstead
+New York,1600000US3638077,Ithaca
+New York,1600000US3638264,Jamestown
+New York,1600000US3643335,Long Beach
+New York,1600000US3647042,Middletown
+New York,1600000US3649121,Mount Vernon
+New York,1600000US3650034,Newburgh
+New York,1600000US3650617,New Rochelle
+New York,1600000US3651000,New York
+New York,1600000US3651055,Niagara Falls
+New York,1600000US3653682,North Tonawanda
+New York,1600000US3659223,Port Chester
+New York,1600000US3659641,Poughkeepsie
+New York,1600000US3663000,Rochester
+New York,1600000US3663418,Rome
+New York,1600000US3665255,Saratoga Springs
+New York,1600000US3665508,Schenectady
+New York,1600000US3670420,Spring Valley
+New York,1600000US3673000,Syracuse
+New York,1600000US3674183,Tonawanda
+New York,1600000US3675484,Troy
+New York,1600000US3676540,Utica
+New York,1600000US3678608,Watertown
+New York,1600000US3680907,West Seneca
+New York,1600000US3681677,White Plains
+New York,1600000US3684000,Yonkers
+Ohio,1600000US3901000,Akron
+Ohio,1600000US3903184,Austintown
+Ohio,1600000US3903828,Barberton
+Ohio,1600000US3904720,Beavercreek
+Ohio,1600000US3907972,Bowling Green
+Ohio,1600000US3909680,Brunswick
+Ohio,1600000US3912000,Canton
+Ohio,1600000US3915000,Cincinnati
+Ohio,1600000US3916000,Cleveland
+Ohio,1600000US3916014,Cleveland Heights
+Ohio,1600000US3918000,Columbus
+Ohio,1600000US3919778,Cuyahoga Falls
+Ohio,1600000US3921000,Dayton
+Ohio,1600000US3921434,Delaware
+Ohio,1600000US3922694,Dublin
+Ohio,1600000US3923380,East Cleveland
+Ohio,1600000US3925256,Elyria
+Ohio,1600000US3925914,Fairborn
+Ohio,1600000US3925970,Fairfield
+Ohio,1600000US3929106,Gahanna
+Ohio,1600000US3932592,Grove
+Ohio,1600000US3933012,Hamilton
+Ohio,1600000US3936610,Huber Heights
+Ohio,1600000US3939872,Kent
+Ohio,1600000US3940040,Kettering
+Ohio,1600000US3941664,Lakewood
+Ohio,1600000US3941720,Lancaster
+Ohio,1600000US3943554,Lima
+Ohio,1600000US3947138,Mansfield
+Ohio,1600000US3947754,Marion
+Ohio,1600000US3948790,Medina
+Ohio,1600000US3949056,Mentor
+Ohio,1600000US3949840,Middletown
+Ohio,1600000US3961000,Parma
+Ohio,1600000US3966390,Reynoldsburg
+Ohio,1600000US3970380,Sandusky
+Ohio,1600000US3974118,Springfield
+Ohio,1600000US3974944,Stow
+Ohio,1600000US3975098,Strongsville
+Ohio,1600000US3977000,Toledo
+Ohio,1600000US3977504,Trotwood
+Ohio,1600000US3979002,Upper Arlington
+Ohio,1600000US3980892,Warren
+Ohio,1600000US3983342,Westerville
+Ohio,1600000US3983622,Westlake
+Ohio,1600000US3988000,Youngstown
+Ohio,1600000US3988084,Zanesville
+Oklahoma,1600000US4004450,Bartlesville
+Oklahoma,1600000US4009050,Broken Arrow
+Oklahoma,1600000US4023200,Edmond
+Oklahoma,1600000US4023950,Enid
+Oklahoma,1600000US4041850,Lawton
+Oklahoma,1600000US4048350,Midwest
+Oklahoma,1600000US4049200,Moore
+Oklahoma,1600000US4050050,Muskogee
+Oklahoma,1600000US4052500,Norman
+Oklahoma,1600000US4055000,Oklahoma
+Oklahoma,1600000US4059850,Ponca
+Oklahoma,1600000US4066800,Shawnee
+Oklahoma,1600000US4070300,Stillwater
+Oklahoma,1600000US4075000,Tulsa
+Oregon,1600000US4101000,Albany
+Oregon,1600000US4105350,Beaverton
+Oregon,1600000US4105800,Bend
+Oregon,1600000US4115800,Corvallis
+Oregon,1600000US4123850,Eugene
+Oregon,1600000US4131250,Gresham
+Oregon,1600000US4134100,Hillsboro
+Oregon,1600000US4138500,Keizer
+Oregon,1600000US4140550,Lake Oswego
+Oregon,1600000US4145000,McMinnville
+Oregon,1600000US4147000,Medford
+Oregon,1600000US4155200,Oregon
+Oregon,1600000US4159000,Portland
+Oregon,1600000US4164900,Salem
+Oregon,1600000US4169600,Springfield
+Oregon,1600000US4173650,Tigard
+Pennsylvania,1600000US4202000,Allentown
+Pennsylvania,1600000US4202184,Altoona
+Pennsylvania,1600000US4206064,Bethel Park borough
+Pennsylvania,1600000US4206088,Bethlehem
+Pennsylvania,1600000US4213208,Chester
+Pennsylvania,1600000US4221648,Easton
+Pennsylvania,1600000US4224000,Erie
+Pennsylvania,1600000US4232800,Harrisburg
+Pennsylvania,1600000US4241216,Lancaster
+Pennsylvania,1600000US4253368,New Castle
+Pennsylvania,1600000US4254656,Norristown borough
+Pennsylvania,1600000US4260000,Philadelphia
+Pennsylvania,1600000US4261000,Pittsburgh
+Pennsylvania,1600000US4263624,Reading
+Pennsylvania,1600000US4269000,Scranton
+Pennsylvania,1600000US4273808,State College borough
+Pennsylvania,1600000US4285312,Williamsport
+Pennsylvania,1600000US4287048,York
+Rhode Island,1600000US4419180,Cranston
+Rhode Island,1600000US4422960,East Providence
+Rhode Island,1600000US4449960,Newport
+Rhode Island,1600000US4454640,Pawtucket
+Rhode Island,1600000US4459000,Providence
+Rhode Island,1600000US4474300,Warwick
+Rhode Island,1600000US4480780,Woonsocket
+South Carolina,1600000US4500550,Aiken
+South Carolina,1600000US4513330,Charleston
+South Carolina,1600000US4516000,Columbia
+South Carolina,1600000US4525810,Florence
+South Carolina,1600000US4529815,Goose Creek
+South Carolina,1600000US4530850,Greenville
+South Carolina,1600000US4548535,Mount Pleasant
+South Carolina,1600000US4550875,North Charleston
+South Carolina,1600000US4561405,Rock Hill
+South Carolina,1600000US4570270,Summerville
+South Carolina,1600000US4570405,Sumter
+South Dakota,1600000US4652980,Rapid
+South Dakota,1600000US4659020,Sioux Falls
+Tennessee,1600000US4703440,Bartlett
+Tennessee,1600000US4714000,Chattanooga
+Tennessee,1600000US4715160,Clarksville
+Tennessee,1600000US4715400,Cleveland
+Tennessee,1600000US4716420,Collierville
+Tennessee,1600000US4716540,Columbia
+Tennessee,1600000US4727740,Franklin
+Tennessee,1600000US4728960,Germantown
+Tennessee,1600000US4733280,Hendersonville
+Tennessee,1600000US4737640,Jackson
+Tennessee,1600000US4738320,Johnson
+Tennessee,1600000US4739560,Kingsport
+Tennessee,1600000US4740000,Knoxville
+Tennessee,1600000US4748000,Memphis
+Tennessee,1600000US4751560,Murfreesboro
+Tennessee,1600000US4755120,Oak Ridge
+Tennessee,1600000US4769420,Smyrna
+Texas,1600000US4801000,Abilene
+Texas,1600000US4801924,Allen
+Texas,1600000US4803000,Amarillo
+Texas,1600000US4804000,Arlington
+Texas,1600000US4805000,Austin
+Texas,1600000US4806128,Baytown
+Texas,1600000US4807000,Beaumont
+Texas,1600000US4807132,Bedford
+Texas,1600000US4808236,Big Spring
+Texas,1600000US4810768,Brownsville
+Texas,1600000US4810912,Bryan
+Texas,1600000US4813024,Carrollton
+Texas,1600000US4813492,Cedar Hill
+Texas,1600000US4813552,Cedar Park
+Texas,1600000US4815364,Cleburne
+Texas,1600000US4815976,College Station
+Texas,1600000US4816432,Conroe
+Texas,1600000US4816612,Coppell
+Texas,1600000US4816624,Copperas Cove
+Texas,1600000US4817000,Corpus Christi
+Texas,1600000US4819000,Dallas
+Texas,1600000US4819624,Deer Park
+Texas,1600000US4819792,Del Rio
+Texas,1600000US4819972,Denton
+Texas,1600000US4820092,DeSoto
+Texas,1600000US4821628,Duncanville
+Texas,1600000US4822660,Edinburg
+Texas,1600000US4824000,El Paso
+Texas,1600000US4824768,Euless
+Texas,1600000US4825452,Farmers Branch
+Texas,1600000US4826232,Flower Mound
+Texas,1600000US4827000,Fort Worth
+Texas,1600000US4827648,Friendswood
+Texas,1600000US4827684,Frisco
+Texas,1600000US4828068,Galveston
+Texas,1600000US4829000,Garland
+Texas,1600000US4829336,Georgetown
+Texas,1600000US4830464,Grand Prairie
+Texas,1600000US4830644,Grapevine
+Texas,1600000US4831928,Haltom
+Texas,1600000US4832372,Harlingen
+Texas,1600000US4835000,Houston
+Texas,1600000US4835528,Huntsville
+Texas,1600000US4835576,Hurst
+Texas,1600000US4837000,Irving
+Texas,1600000US4838632,Keller
+Texas,1600000US4839148,Killeen
+Texas,1600000US4839352,Kingsville
+Texas,1600000US4840588,Lake Jackson
+Texas,1600000US4841212,Lancaster
+Texas,1600000US4841440,La Porte
+Texas,1600000US4841464,Laredo
+Texas,1600000US4841980,League
+Texas,1600000US4842508,Lewisville
+Texas,1600000US4845000,Lubbock
+Texas,1600000US4845072,Lufkin
+Texas,1600000US4845384,McAllen
+Texas,1600000US4845744,McKinney
+Texas,1600000US4846452,Mansfield
+Texas,1600000US4848072,Midland
+Texas,1600000US4848768,Mission
+Texas,1600000US4848804,Missouri
+Texas,1600000US4850256,Nacogdoches
+Texas,1600000US4850820,New Braunfels
+Texas,1600000US4852356,North Richland Hills
+Texas,1600000US4853388,Odessa
+Texas,1600000US4855080,Paris
+Texas,1600000US4856000,Pasadena
+Texas,1600000US4856348,Pearland
+Texas,1600000US4857200,Pharr
+Texas,1600000US4858016,Plano
+Texas,1600000US4858820,Port Arthur
+Texas,1600000US4861796,Richardson
+Texas,1600000US4863500,Round Rock
+Texas,1600000US4863572,Rowlett
+Texas,1600000US4864472,San Angelo
+Texas,1600000US4865000,San Antonio
+Texas,1600000US4865600,San Marcos
+Texas,1600000US4867496,Sherman
+Texas,1600000US4868636,Socorro
+Texas,1600000US4870808,Sugar Land
+Texas,1600000US4872176,Temple
+Texas,1600000US4872368,Texarkana
+Texas,1600000US4872392,Texas
+Texas,1600000US4872530,The Colony
+Texas,1600000US4874144,Tyler
+Texas,1600000US4876000,Waco
+Texas,1600000US4877272,Weslaco
+Texas,1600000US4879000,Wichita Falls
+Utah,1600000US4907690,Bountiful
+Utah,1600000US4913850,Clearfield
+Utah,1600000US4916270,Cottonwood Heights
+Utah,1600000US4920120,Draper
+Utah,1600000US4943660,Layton
+Utah,1600000US4945860,Logan
+Utah,1600000US4953230,Murray
+Utah,1600000US4955980,Ogden
+Utah,1600000US4957300,Orem
+Utah,1600000US4962470,Provo
+Utah,1600000US4965110,Roy
+Utah,1600000US4967000,Salt Lake
+Utah,1600000US4967440,Sandy
+Utah,1600000US4970850,South Jordan
+Utah,1600000US4982950,West Jordan
+Utah,1600000US4983470,West Valley
+Virginia,1600000US5101000,Alexandria
+Virginia,1600000US5107784,Blacksburg
+Virginia,1600000US5114968,Charlottesville
+Virginia,1600000US5116000,Chesapeake
+Virginia,1600000US5121344,Danville
+Virginia,1600000US5135000,Hampton
+Virginia,1600000US5135624,Harrisonburg
+Virginia,1600000US5144984,Leesburg
+Virginia,1600000US5147672,Lynchburg
+Virginia,1600000US5148952,Manassas
+Virginia,1600000US5156000,Newport News
+Virginia,1600000US5157000,Norfolk
+Virginia,1600000US5161832,Petersburg
+Virginia,1600000US5164000,Portsmouth
+Virginia,1600000US5168000,Roanoke
+Virginia,1600000US5176432,Suffolk
+Virginia,1600000US5182000,Virginia Beach
+Washington,1600000US5303180,Auburn
+Washington,1600000US5305210,Bellevue
+Washington,1600000US5305280,Bellingham
+Washington,1600000US5307380,Bothell
+Washington,1600000US5307695,Bremerton
+Washington,1600000US5308850,Burien
+Washington,1600000US5317635,Des Moines
+Washington,1600000US5320750,Edmonds
+Washington,1600000US5322640,Everett
+Washington,1600000US5323515,Federal Way
+Washington,1600000US5335275,Kennewick
+Washington,1600000US5335415,Kent
+Washington,1600000US5335940,Kirkland
+Washington,1600000US5336745,Lacey
+Washington,1600000US5338038,Lakewood
+Washington,1600000US5340245,Longview
+Washington,1600000US5340840,Lynnwood
+Washington,1600000US5343955,Marysville
+Washington,1600000US5347560,Mount Vernon
+Washington,1600000US5351300,Olympia
+Washington,1600000US5353545,Pasco
+Washington,1600000US5356695,Puyallup
+Washington,1600000US5357535,Redmond
+Washington,1600000US5357745,Renton
+Washington,1600000US5358235,Richland
+Washington,1600000US5361115,Sammamish
+Washington,1600000US5362288,SeaTac
+Washington,1600000US5363000,Seattle
+Washington,1600000US5363960,Shoreline
+Washington,1600000US5367000,Spokane
+Washington,1600000US5370000,Tacoma
+Washington,1600000US5373465,University Place
+Washington,1600000US5374060,Vancouver
+Washington,1600000US5375775,Walla Walla
+Washington,1600000US5377105,Wenatchee
+Washington,1600000US5380010,Yakima
+Wisconsin,1600000US5502375,Appleton
+Wisconsin,1600000US5506500,Beloit
+Wisconsin,1600000US5510025,Brookfield
+Wisconsin,1600000US5522300,Eau Claire
+Wisconsin,1600000US5527300,Franklin
+Wisconsin,1600000US5531000,Green Bay
+Wisconsin,1600000US5531175,Greenfield
+Wisconsin,1600000US5537825,Janesville
+Wisconsin,1600000US5539225,Kenosha
+Wisconsin,1600000US5540775,La Crosse
+Wisconsin,1600000US5548000,Madison
+Wisconsin,1600000US5548500,Manitowoc
+Wisconsin,1600000US5551000,Menomonee Falls
+Wisconsin,1600000US5553000,Milwaukee
+Wisconsin,1600000US5556375,New Berlin
+Wisconsin,1600000US5558800,Oak Creek
+Wisconsin,1600000US5560500,Oshkosh
+Wisconsin,1600000US5566000,Racine
+Wisconsin,1600000US5572975,Sheboygan
+Wisconsin,1600000US5584250,Waukesha
+Wisconsin,1600000US5584475,Wausau
+Wisconsin,1600000US5584675,Wauwatosa
+Wisconsin,1600000US5585300,West Allis
+Wisconsin,1600000US5585350,West Bend
+West Virginia,1600000US5414600,Charleston
+West Virginia,1600000US5439460,Huntington
+West Virginia,1600000US5455756,Morgantown
+West Virginia,1600000US5462140,Parkersburg
+West Virginia,1600000US5486452,Wheeling
+Wyoming,1600000US5613150,Casper
+Wyoming,1600000US5613900,Cheyenne
+Wyoming,1600000US5645050,Laramie

@@ -1,0 +1,10 @@
+PyQt5==5.14.2
+requests==2.23.0
+pandas==1.0.4
+ipinfo==3.0.0
+folium==0.11.0
+geopy==2.0.0
+PyQtWebEngine==5.14.0
+cufflinks==0.17.3
+numpy==1.19.1
+plotly==4.9.0
