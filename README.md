@@ -31,7 +31,7 @@ key=xxxxxxxxxxxxxx
 ```
 
 ## Running File
-Once you have installed all necessary dependencies and have update config.ini, you can run the main.py file by doing
+Once you have installed all necessary dependencies and have updated configure.ini, you can run the main.py in the file directory
 ```bash
 python main.py
 ```
