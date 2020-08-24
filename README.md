@@ -3,6 +3,9 @@
 ## About
 Crime Watch is a simple desktop application that was created for the 2020 Congressional App Challenge. It uses the FBI-NIBRS and Spotcrime APIs to show crime that has occured near you on a map, state crime statistics from 2000 to 2018, and a basic crime breakdown for each major city in that state.
 
+Reddit Post: [Here](https://www.reddit.com/r/Python/comments/iexkwp/crime_watch_an_interactive_way_to_view_crime/)
+Youtube Video: [Here](https://www.youtube.com/watch?v=HxjXqmBpjP4)
+
 ## Usage
 In order to use Crime Watch, after cloning, open a terminal in the directory and enter:
 
@@ -33,7 +36,7 @@ key=xxxxxxxxxxxxxx
 ## Running File
 Once you have installed all necessary dependencies and have updated configure.ini, you can run the main.py in the file directory
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Where It Works
