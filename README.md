@@ -51,6 +51,4 @@ Crime Watch works in the continental United States, however some rural areas may
 
 ## Credits
 - Varun Patel
-- Jay Chaplot
-- Annelis Irigoyen
-- Aditya Gade
+- Annelis Irigoyen (Artwork)
