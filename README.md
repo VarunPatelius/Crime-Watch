@@ -6,6 +6,9 @@ Crime Watch is a simple desktop application that was created for the 2020 Congre
 Reddit Post: [Here](https://www.reddit.com/r/Python/comments/iexkwp/crime_watch_an_interactive_way_to_view_crime/)
 Youtube Video: [Here](https://youtu.be/CS3w3ZiuSrk)
 
+## Awards
+Crime Watch was declared the winner of Florida's 15th Congressional District during the 2020 Congressional App Challenge under Representative Ross Spano.
+
 ## Usage
 In order to use Crime Watch, after cloning, open a terminal in the directory and enter:
 
